@@ -6,19 +6,16 @@ This project uses Neural Networks to detect and classify diseases in plants
 You can get the dataset from [Kaggle](https://www.kaggle.com/datasets/vipoooool/new-plant-diseases-dataset)
 
 ### Final results
-#### Confusion matrix
-![confusion_matrix.png](confusion_matrix.png)
-
 #### Classification report
-![classification_report.png](..%2F..%2F..%2FDesktop%2Fclassification_report.png)
+![classification_report](https://github.com/LeonSilva15/plant-diseases-detection/assets/36859776/1a24753b-3850-4680-9575-236e1ef8d7ab)
+
+#### Confusion matrix
+![confusion_matrix](https://github.com/LeonSilva15/plant-diseases-detection/assets/36859776/e5f9d399-2711-4be1-b6d5-7b157c27fd52)
+
 
 ### Some interesting results
-![Screenshot 2023-09-30 at 4.14.16.png](..%2F..%2F..%2F..%2F..%2Fvar%2Ffolders%2F8p%2F3l7sfzp10l3_0w_tckpkhyhw0000gn%2FT%2FTemporaryItems%2FNSIRD_screencaptureui_jz2imw%2FScreenshot%202023-09-30%20at%204.14.16.png)
-
-![Screenshot 2023-09-30 at 4.14.52.png](..%2F..%2F..%2F..%2F..%2Fvar%2Ffolders%2F8p%2F3l7sfzp10l3_0w_tckpkhyhw0000gn%2FT%2FTemporaryItems%2FNSIRD_screencaptureui_3aNCoS%2FScreenshot%202023-09-30%20at%204.14.52.png)
-
-![Screenshot 2023-09-30 at 4.15.16.png](..%2F..%2F..%2F..%2F..%2Fvar%2Ffolders%2F8p%2F3l7sfzp10l3_0w_tckpkhyhw0000gn%2FT%2FTemporaryItems%2FNSIRD_screencaptureui_VAaQ6G%2FScreenshot%202023-09-30%20at%204.15.16.png)
-
-![Screenshot 2023-09-30 at 4.15.40.png](..%2F..%2F..%2F..%2F..%2Fvar%2Ffolders%2F8p%2F3l7sfzp10l3_0w_tckpkhyhw0000gn%2FT%2FTemporaryItems%2FNSIRD_screencaptureui_2b9Sty%2FScreenshot%202023-09-30%20at%204.15.40.png)
-
-![Screenshot 2023-09-30 at 4.15.53.png](..%2F..%2F..%2F..%2F..%2Fvar%2Ffolders%2F8p%2F3l7sfzp10l3_0w_tckpkhyhw0000gn%2FT%2FTemporaryItems%2FNSIRD_screencaptureui_4jaYgE%2FScreenshot%202023-09-30%20at%204.15.53.png)
+![Screenshot 2023-09-30 at 4 27 00](https://github.com/LeonSilva15/plant-diseases-detection/assets/36859776/c1cf2672-4ad1-4a5e-904c-c25204ebb219)
+![Screenshot 2023-09-30 at 4 27 14](https://github.com/LeonSilva15/plant-diseases-detection/assets/36859776/8681d2f7-fead-40aa-a7d4-35e919eba38e)
+![Screenshot 2023-09-30 at 4 27 28](https://github.com/LeonSilva15/plant-diseases-detection/assets/36859776/d5a9e381-1d5a-4a43-90b0-44a77be6a0a2)
+![Screenshot 2023-09-30 at 4 27 41](https://github.com/LeonSilva15/plant-diseases-detection/assets/36859776/f00d1732-d675-42cc-abb2-44b7bd4ab6e0)
+![Screenshot 2023-09-30 at 4 27 54](https://github.com/LeonSilva15/plant-diseases-detection/assets/36859776/80d27849-3521-4294-ae92-d43cfd6fdf8a)
