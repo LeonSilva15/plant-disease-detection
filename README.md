@@ -5,6 +5,25 @@ This project uses Neural Networks to detect and classify diseases in plants
 ### Dataset
 You can get the dataset from [Kaggle](https://www.kaggle.com/datasets/vipoooool/new-plant-diseases-dataset)
 
+### Followed steps
+1. Use transfer learning using the imagenet weights
+2. Add the last layers
+   * Include the dropout layer for later optimization
+3. Create the train and valid generators
+4. Look for the best hyper parameters using the Bayesian Optimization
+5. Fit the model
+   * Using these hyperparameters
+   * Including Early Stopping to avoid overfitting
+6. Prune the model
+   * Using the prune_low_magnitude method
+   * Using the Polynomial Decay
+7. Compress the model using the strip_pruning method
+8. Evaluate the accuracy
+9. Evaluate the metrics
+   * Classification report
+   * Confusion matrix
+10. Test the model
+
 ### Final results
 #### Classification report
 ![classification_report](https://github.com/LeonSilva15/plant-diseases-detection/assets/36859776/1a24753b-3850-4680-9575-236e1ef8d7ab)
